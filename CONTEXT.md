@@ -45,10 +45,27 @@
 
  
 
-### Day 4 (Next)
-- **Embeddings** → Turn text into vectors; similarity search (concept first, then script)
-- **Vector DBs** → Store and query embeddings (e.g. in-memory or Chroma/FAISS intro)
-- Leads into **RAG** (Month 2)
+### Day 4 (Completed)
+- 15_embeddings_similarity.py → SentenceTransformer embeddings, cosine similarity
+- 16_in_memory_vector_db.py → In-memory vector DB with metadata and chunking
+- 17_context_vector_search.py → Context search with document indexing
+- 18_rag_context_qa.py → **Full RAG system** with retrieval and LLM answer generation
+
+### Day 5 (Completed)
+- **RAG Mastery** → Interactive Q&A system using personal CONTEXT.md
+- **Production Patterns** → Metadata-rich indexing, source citation, chunk overlap
+- **Vector Search** → Cosine similarity, top-k retrieval, score normalization
+
+### Week 2-5: Advanced AI Engineering Roadmap
+- **Week 1**: Advanced RAG (Pinecone/Weaviate, hybrid search, semantic chunking)
+- **Week 2**: Agent Frameworks (LangGraph vs CrewAI, multi-agent orchestration)
+- **Week 3**: LLMOps (monitoring, A/B testing, cost optimization)
+- **Week 4**: Enterprise AI (microservices, real-time inference, security)
+
+### Portfolio Projects (Planned)
+1. **Enterprise Agentic RAG Platform** → Multi-step reasoning, query decomposition
+2. **AI Observability & Evaluation Hub** → LLM-as-a-Judge, cost tracking, drift detection
+3. **Multi-Agent Supply Chain Orchestrator** → CrewAI agents, dynamic workflows
 
  
 
@@ -60,10 +77,11 @@
 
  
 
-## Roadmap
-- Month 1: LLM APIs, Prompt Engineering, Embeddings, Vector DBs
-- Month 2: RAG, Agents, LangChain, LlamaIndex
-- Month 3: LLMOps, Capstone Project, Interview Prep
+## Roadmap (Updated - Accelerated!)
+- **Month 1**: ✅ LLM APIs, Prompt Engineering, Embeddings, Vector DBs, **RAG** (Completed ahead of schedule!)
+- **Month 1.5**: Advanced RAG, Agent Frameworks, LLMOps (Current focus)
+- **Month 2**: Portfolio Projects, Enterprise AI Architecture
+- **Month 3**: Interview Prep, System Design, DSA/LeetCode
 
  
  
@@ -77,7 +95,30 @@
 *When we hit these milestones, update your profiles to grow your AI portfolio.*
 
 - [x] **Day 3 done** — LinkedIn headline updated with LLM/RAG → AI Engineer
-- [ ] **Day 4 done** (Embeddings + Vector DB) — Add "Embeddings", "Vector search" to Skills; optional: 1-line in About
-- [ ] **First RAG project on GitHub** — Feature repo on LinkedIn; add project to Experience or Featured
-- [ ] **Month 1 complete** — Refresh About with "Built X, Y" (scripts + one showcase project)
+- [x] **Day 5 done** (RAG Complete) — Add "RAG Systems", "Vector Search", "Embeddings" to Skills; update About with "Built production-grade RAG system"
+- [ ] **Portfolio Project 1 on GitHub** — Feature Enterprise Agentic RAG Platform
+- [ ] **Advanced AI Week 2 done** — Add "Agent Frameworks", "LangGraph", "CrewAI" to Skills
+- [ ] **All 3 Portfolio Projects Complete** — Refresh Experience with AI Engineer role and project showcase
 - [ ] **Certification** (e.g. Microsoft AI-900 / Google AI) — Add to Licenses & certifications
+
+## Portfolio Visibility & GitHub Strategy
+*Regular commits and profile updates for maximum career impact*
+
+### Weekly GitHub Actions:
+- [ ] **Every Sunday**: Push progress to GitHub with descriptive commits
+- [ ] **Tag milestones**: v0.1.0 (RAG), v0.2.0 (SQL Assistant), etc.
+- [ ] **Update READMEs**: Add architecture diagrams and demo screenshots
+- [ ] **Create releases**: For each completed project phase
+
+### LinkedIn Optimization:
+- [ ] **After each project**: Update skills and experience section
+- [ ] **Monthly**: Review headline based on current capabilities
+- [ ] **Share progress**: Post about learning milestones and project completions
+- [ ] **Network engagement**: Comment on AI engineering posts
+
+### Current Status: 🚀 **AHEAD OF SCHEDULE**
+- **Completed**: Month 1 fundamentals in 5 days instead of 30 days
+- **Next**: Start Week 1 of Advanced AI Engineering (production RAG patterns)
+- **Portfolio Ready**: Can start Project 1 (Enterprise Agentic RAG) this weekend
+- **NEW**: SQL Assistant Project - perfect for demonstrating practical AI engineering
+- **Interview Timeline**: On track for 50+ LPA roles in 2-3 months
